@@ -1,5 +1,4 @@
 # Riemann Sum Calculator
-Completed by Chris Turgeon
 
 ## General Information
 This program was written and compiled in Java on the Windows command line.
